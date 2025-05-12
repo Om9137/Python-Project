@@ -5,7 +5,7 @@ student_marks = {
     "Amit": 89,
     "Priya": 76,
     "Rahul": 92,
-    "Neha": 85,
+    "Sneha": 85,
     "Vikram": 81
 }
 
